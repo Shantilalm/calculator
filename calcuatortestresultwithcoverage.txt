@@ -13,7 +13,7 @@ Test Files
 Errors, Failures and Warnings
 
 1) Failed : Calculator.test.UnitTest1.AddTest()
-  Expected: 31
+  Expected: 33
   But was:  30
 at Calculator.test.UnitTest1.AddTest() in C:\localgitrepo\Calculator\Calculator.test\UnitTest1.cs:line 15
 
@@ -30,9 +30,9 @@ Test Run Summary
   Overall result: Failed
   Test Count: 1, Passed: 0, Failed: 1, Warnings: 0, Inconclusive: 0, Skipped: 0
     Failed Tests - Failures: 1, Errors: 0, Invalid: 0
-  Start time: 2017-04-18 06:05:56Z
-    End time: 2017-04-18 06:06:00Z
-    Duration: 4.292 seconds
+  Start time: 2017-04-18 07:02:39Z
+    End time: 2017-04-18 07:02:43Z
+    Duration: 3.169 seconds
 
 Results (nunit2) saved as .\TestResult.xml
 Committing...

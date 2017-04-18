@@ -158,10 +158,10 @@
       <ModuleName>System.Web</ModuleName>
       <Classes />
     </Module>
-    <Module hash="06-F6-AB-D3-81-46-BD-B8-D7-A5-F6-A6-F2-E8-9E-3E-E1-03-D8-E8">
+    <Module hash="C6-B1-0F-0D-25-36-26-12-1A-C0-8A-9F-D8-74-ED-D5-24-4B-F9-C1">
       <Summary numSequencePoints="5" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="80" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
       <ModulePath>C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.dll</ModulePath>
-      <ModuleTime>2017-04-18T05:59:11.7332651Z</ModuleTime>
+      <ModuleTime>2017-04-18T06:54:40.6086659Z</ModuleTime>
       <ModuleName>Calculator.test</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\localgitrepo\Calculator\Calculator.test\UnitTest1.cs" />
@@ -215,10 +215,10 @@
       <ModuleName>System.Xml</ModuleName>
       <Classes />
     </Module>
-    <Module hash="10-30-48-08-32-95-AC-1D-B5-81-93-62-27-38-45-17-0B-9B-CD-D8">
+    <Module hash="1C-09-50-14-56-5E-C7-65-C3-B4-53-CD-CB-37-56-65-7B-C8-42-CD">
       <Summary numSequencePoints="23" visitedSequencePoints="7" numBranchPoints="4" visitedBranchPoints="2" sequenceCoverage="30.43" branchCoverage="50" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" visitedClasses="1" numClasses="2" visitedMethods="2" numMethods="4" />
       <ModulePath>C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.exe</ModulePath>
-      <ModuleTime>2017-04-18T05:59:11.5942571Z</ModuleTime>
+      <ModuleTime>2017-04-18T06:54:40.5136604Z</ModuleTime>
       <ModuleName>Calculator</ModuleName>
       <Files>
         <File uid="3" fullPath="C:\localgitrepo\Calculator\Calculator\MathsHelper.cs" />
