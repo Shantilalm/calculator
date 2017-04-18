@@ -1,0 +1,46 @@
+Executing: C:\localgitrepo\Calculator\packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe
+NUnit Console Runner 3.6.1 
+Copyright (C) 2017 Charlie Poole
+
+Runtime Environment
+   OS Version: Microsoft Windows NT 6.1.7601 Service Pack 1
+  CLR Version: 4.0.30319.42000
+
+Test Files
+    C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.dll
+
+
+Errors, Failures and Warnings
+
+1) Failed : Calculator.test.UnitTest1.AddTest()
+  Expected: 31
+  But was:  30
+at Calculator.test.UnitTest1.AddTest() in c:\localgitrepo\Calculator\Calculator.test\UnitTest1.cs:line 15
+
+Run Settings
+    DisposeRunners: True
+    WorkDirectory: C:\localgitrepo
+    ImageRuntimeVersion: 4.0.30319
+    ImageTargetFrameworkName: .NETFramework,Version=v4.5
+    ImageRequiresX86: False
+    ImageRequiresDefaultAppDomainAssemblyResolver: False
+    NumberOfTestWorkers: 4
+
+Test Run Summary
+  Overall result: Failed
+  Test Count: 1, Passed: 0, Failed: 1, Warnings: 0, Inconclusive: 0, Skipped: 0
+    Failed Tests - Failures: 1, Errors: 0, Invalid: 0
+  Start time: 2017-04-18 05:25:43Z
+    End time: 2017-04-18 05:25:46Z
+    Duration: 3.344 seconds
+
+Results (nunit2) saved as .\TestResult.xml
+Committing...
+Visited Classes 2 of 3 (66.67)
+Visited Methods 3 of 5 (60)
+Visited Points 11 of 28 (39.29)
+Visited Branches 3 of 5 (60)
+
+==== Alternative Results (includes all methods including those without corresponding source) ====
+Alternative Visited Classes 2 of 3 (66.67)
+Alternative Visited Methods 4 of 7 (57.14)
