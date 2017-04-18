@@ -3,3 +3,9 @@ D:\Research\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
 D:\Research\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
 D:\Research\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\Research\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\localgitrepo\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\localgitrepo\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\localgitrepo\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\localgitrepo\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\localgitrepo\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\localgitrepo\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

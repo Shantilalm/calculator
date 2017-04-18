@@ -7,3 +7,12 @@ D:\Research\Calculator\Calculator\Calculator.test\bin\Debug\nunit.framework.xml
 D:\Research\Calculator\Calculator\Calculator.test\obj\Debug\Calculator.test.csprojResolveAssemblyReference.cache
 D:\Research\Calculator\Calculator\Calculator.test\obj\Debug\Calculator.test.dll
 D:\Research\Calculator\Calculator\Calculator.test\obj\Debug\Calculator.test.pdb
+C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.dll
+C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.pdb
+C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.exe
+C:\localgitrepo\Calculator\Calculator.test\bin\Debug\nunit.framework.dll
+C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.pdb
+C:\localgitrepo\Calculator\Calculator.test\bin\Debug\nunit.framework.xml
+C:\localgitrepo\Calculator\Calculator.test\obj\Debug\Calculator.test.csprojResolveAssemblyReference.cache
+C:\localgitrepo\Calculator\Calculator.test\obj\Debug\Calculator.test.dll
+C:\localgitrepo\Calculator\Calculator.test\obj\Debug\Calculator.test.pdb
