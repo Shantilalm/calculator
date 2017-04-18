@@ -19,7 +19,7 @@ at Calculator.test.UnitTest1.AddTest() in c:\localgitrepo\Calculator\Calculator.
 
 Run Settings
     DisposeRunners: True
-    WorkDirectory: C:\localgitrepo
+    WorkDirectory: C:\localgitrepo\.git\hooks
     ImageRuntimeVersion: 4.0.30319
     ImageTargetFrameworkName: .NETFramework,Version=v4.5
     ImageRequiresX86: False
@@ -30,12 +30,13 @@ Test Run Summary
   Overall result: Failed
   Test Count: 1, Passed: 0, Failed: 1, Warnings: 0, Inconclusive: 0, Skipped: 0
     Failed Tests - Failures: 1, Errors: 0, Invalid: 0
-  Start time: 2017-04-18 05:25:43Z
-    End time: 2017-04-18 05:25:46Z
-    Duration: 3.344 seconds
+  Start time: 2017-04-18 05:39:59Z
+    End time: 2017-04-18 05:40:02Z
+    Duration: 3.319 seconds
 
 Results (nunit2) saved as .\TestResult.xml
 Committing...
+Source file is modified: c:\localgitrepo\Calculator\Calculator.test\UnitTest1.cs
 Visited Classes 2 of 3 (66.67)
 Visited Methods 3 of 5 (60)
 Visited Points 11 of 28 (39.29)
