@@ -12,7 +12,7 @@ namespace Calculator.test
         {
             MathsHelper helper = new MathsHelper();
             int result = helper.Add(20, 10);
-            NUnit.Framework.Assert.AreEqual(33, result);
+            NUnit.Framework.Assert.AreEqual(31, result);
         }
 
         //[TestCase]
