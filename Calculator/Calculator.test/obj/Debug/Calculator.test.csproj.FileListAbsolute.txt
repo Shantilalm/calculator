@@ -16,3 +16,4 @@ C:\localgitrepo\Calculator\Calculator.test\bin\Debug\nunit.framework.xml
 C:\localgitrepo\Calculator\Calculator.test\obj\Debug\Calculator.test.csprojResolveAssemblyReference.cache
 C:\localgitrepo\Calculator\Calculator.test\obj\Debug\Calculator.test.dll
 C:\localgitrepo\Calculator\Calculator.test\obj\Debug\Calculator.test.pdb
+C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
