@@ -1,0 +1,56 @@
+NUnit Console Runner 3.6.1 
+Copyright (C) 2017 Charlie Poole
+
+Runtime Environment
+   OS Version: Microsoft Windows NT 6.1.7601 Service Pack 1
+  CLR Version: 4.0.30319.42000
+
+Test Files
+    d:\Research\Calculator\Calculator\Calculator.test\bin\Debug\Calculator.test.dll
+
+
+Run Settings
+    DisposeRunners: True
+    WorkDirectory: D:\Research\Calculator\Calculator\packages\NUnit.ConsoleRunner.3.6.1\tools
+    ImageRuntimeVersion: 4.0.30319
+    ImageTargetFrameworkName: .NETFramework,Version=v4.5
+    ImageRequiresX86: False
+    ImageRequiresDefaultAppDomainAssemblyResolver: False
+    NumberOfTestWorkers: 2
+
+Test Run Summary
+  Overall result: Passed
+  Test Count: 1, Passed: 1, Failed: 0, Warnings: 0, Inconclusive: 0, Skipped: 0
+  Start time: 2017-04-04 12:13:35Z
+    End time: 2017-04-04 12:13:36Z
+    Duration: 1.014 seconds
+
+Results (nunit3) saved as TestResult.xml
+NUnit Console Runner 3.6.1 
+Copyright (C) 2017 Charlie Poole
+
+Runtime Environment
+   OS Version: Microsoft Windows NT 6.1.7601 Service Pack 1
+  CLR Version: 4.0.30319.42000
+
+Test Files
+    d:\Research\Calculator\Calculator\Calculator.test\bin\Debug\Calculator.test.dll
+
+
+Run Settings
+    DisposeRunners: True
+    WorkDirectory: D:\Research\Calculator\Calculator\packages\NUnit.ConsoleRunner.3.6.1\tools
+    ImageRuntimeVersion: 4.0.30319
+    ImageTargetFrameworkName: .NETFramework,Version=v4.5
+    ImageRequiresX86: False
+    ImageRequiresDefaultAppDomainAssemblyResolver: False
+    NumberOfTestWorkers: 2
+
+Test Run Summary
+  Overall result: Passed
+  Test Count: 1, Passed: 1, Failed: 0, Warnings: 0, Inconclusive: 0, Skipped: 0
+  Start time: 2017-04-04 12:24:50Z
+    End time: 2017-04-04 12:24:51Z
+    Duration: 1.072 seconds
+
+Results (nunit3) saved as TestResult.xml
