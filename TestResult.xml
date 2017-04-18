@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-18" time="05:25:43">
+<test-results name="C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-18" time="06:05:56">
   <environment nunit-version="3.5.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\localgitrepo" machine-name="NOD244" user="shantilal.mali" user-domain="NWBRD" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.dll" executed="True" result="Failure" success="False" time="0.092" asserts="1">
+  <test-suite type="Assembly" name="C:\localgitrepo\Calculator\Calculator.test\bin\Debug\Calculator.test.dll" executed="True" result="Failure" success="False" time="0.198" asserts="1">
     <properties>
-      <property name="_PID" value="5764" />
+      <property name="_PID" value="904" />
       <property name="_APPDOMAIN" value="domain-" />
     </properties>
     <failure>
@@ -13,36 +13,36 @@
       <stack-trace />
     </failure>
     <results>
-      <test-suite type="TestSuite" name="Calculator" executed="True" result="Failure" success="False" time="0.077" asserts="1">
+      <test-suite type="TestSuite" name="Calculator" executed="True" result="Failure" success="False" time="0.183" asserts="1">
         <failure>
           <message><![CDATA[One or more child tests had errors]]></message>
           <stack-trace />
         </failure>
         <results>
-          <test-suite type="TestSuite" name="test" executed="True" result="Failure" success="False" time="0.075" asserts="1">
+          <test-suite type="TestSuite" name="test" executed="True" result="Failure" success="False" time="0.181" asserts="1">
             <failure>
               <message><![CDATA[One or more child tests had errors]]></message>
               <stack-trace />
             </failure>
             <results>
-              <test-suite type="TestFixture" name="UnitTest1" executed="True" result="Failure" success="False" time="0.073" asserts="1">
+              <test-suite type="TestFixture" name="UnitTest1" executed="True" result="Failure" success="False" time="0.179" asserts="1">
                 <failure>
                   <message><![CDATA[One or more child tests had errors]]></message>
                   <stack-trace />
                 </failure>
                 <results>
-                  <test-suite type="ParameterizedTest" name="AddTest" executed="True" result="Failure" success="False" time="0.062" asserts="1">
+                  <test-suite type="ParameterizedTest" name="AddTest" executed="True" result="Failure" success="False" time="0.154" asserts="1">
                     <failure>
                       <message><![CDATA[One or more child tests had errors]]></message>
                       <stack-trace />
                     </failure>
                     <results>
-                      <test-case name="Calculator.test.UnitTest1.AddTest()" executed="True" result="Failure" success="False" time="0.048" asserts="1">
+                      <test-case name="Calculator.test.UnitTest1.AddTest()" executed="True" result="Failure" success="False" time="0.138" asserts="1">
                         <failure>
                           <message><![CDATA[  Expected: 31
   But was:  30
 ]]></message>
-                          <stack-trace><![CDATA[at Calculator.test.UnitTest1.AddTest() in c:\localgitrepo\Calculator\Calculator.test\UnitTest1.cs:line 15
+                          <stack-trace><![CDATA[at Calculator.test.UnitTest1.AddTest() in C:\localgitrepo\Calculator\Calculator.test\UnitTest1.cs:line 15
 ]]></stack-trace>
                         </failure>
                       </test-case>
