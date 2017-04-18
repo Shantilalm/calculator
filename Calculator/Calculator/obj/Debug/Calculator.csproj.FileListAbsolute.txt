@@ -8,4 +8,3 @@ C:\localgitrepo\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\localgitrepo\Calculator\Calculator\obj\Debug\Calculator.pdb
 C:\localgitrepo\Calculator\Calculator\bin\Debug\Calculator.exe
 C:\localgitrepo\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\localgitrepo\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
